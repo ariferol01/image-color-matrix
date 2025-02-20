@@ -1,0 +1,17 @@
+{
+    "name": "ariferol01/image-color-matrix",
+    "description": "NumPHP kullanarak görüntü işleme ve matris manipülasyonu örneği",
+    "type": "project",
+    "require": {
+        "php": ">=7.0",
+        "numphp/numphp": "^1.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arif Erol",
+            "email": "ariferol01@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
