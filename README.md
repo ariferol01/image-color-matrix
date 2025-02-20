@@ -54,9 +54,18 @@ php index.php
 
 ### Örnek Çıktı
 
-| Orijinal Görsel | İşlenmiş Görsel |
-|:---------------:|:---------------:|
-| ![Original](docs/images/original.png) | ![Processed](docs/images/processed.png) |
+<div align="center">
+<table>
+  <tr>
+    <td><b>Orijinal Görsel</b></td>
+    <td><b>İşlenmiş Görsel</b></td>
+  </tr>
+  <tr>
+    <td><img src="images/cat.png" width="400" alt="Orijinal Görsel"></td>
+    <td><img src="images/cat_processed.png" width="400" alt="İşlenmiş Görsel"></td>
+  </tr>
+</table>
+</div>
 
 ## ⚙️ Renk Analizi Parametreleri
 
