@@ -111,3 +111,11 @@ image-color-matrix/
 
 - [NumPHP Dokümantasyonu](https://github.com/NumPHP/NumPHP)
 - [PHP GD Kütüphanesi](https://www.php.net/manual/en/book.image.php)
+
+## 🤖 AI Katkısı
+
+Bu proje [Cursor](https://cursor.sh/) AI asistanı yardımıyla geliştirilmiştir.
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Cursor%20AI-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAABB0lEQVR42mNgoBAwInGYgPg/EDtAaWYGhABIEMQG4o9A/B+I3wLxMyB+AsR/gPgVEP8E4r9QsXdA/AGI/0GNBgFmKI0DPAHi/0D8Coj/APEfKP4NxN+h+AcQf4YaAgJXgPg3EP+E4t9A/AOKfwLxLyj+BcS/gfgnEP+Csn8B8U8g/g3Ef4D4LxD/BeL/QAw2+j+U/gvEf6D4NxD/AuI/QPwbiH8B8R+o+D+oC0GGwowGBTksUP8C8V8g/g3Ef6H4DxD/huJfQPwDin8C8S8o+xsQw4LOBOQcGyD+BMQ/gPgnEP+C4l9A/B2Kv0Pxd6hL/0NjA4Q5oFHHCDWQCYi5oeL4AQBkvo/3KZ/QSAAAAABJRU5ErkJggg==">
+</div>
